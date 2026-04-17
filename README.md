@@ -1,5 +1,5 @@
 
-# 🍳 FridgeChef (or your project name)
+# 🍳 FridgeChef
 
 ## 📌 Description
 
@@ -10,20 +10,20 @@ FridgeChef is a web-based application that helps users find recipes based on the
 * Search recipes using available ingredients
 * User-friendly interface
 * Dynamic content using JavaScript
-* Backend integration (if used)
+* Backend integration
 
 ## 🛠️ Tech Stack
 
 * HTML
 * CSS
 * JavaScript
-* Node.js (if used)
-* MySQL (if used)
+* Node.js
+* MySQL 
 
 ## ▶️ How to Run
 
 1. Download or clone the repository
-2. Install dependencies (if Node.js project):
+2. Install dependencies :
    npm install
 3. Run the server:
    node server.js
